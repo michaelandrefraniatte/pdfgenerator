@@ -1,0 +1,3 @@
+Put your images in assets folder and use link https://appassets/
+For example : myimage.png in assets folder using https://appassets/myimage.png in index.html
+
