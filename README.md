@@ -1,3 +1,1 @@
-﻿https://michaelandrefraniatte.github.io/pdfgenerator  
-  
-https://github.com/michaelandrefraniatte  
+﻿https://github.com/michaelandrefraniatte
