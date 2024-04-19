@@ -1,0 +1,10 @@
+https://wkhtmltopdf.org/downloads.html
+install it in C:\Program Files (x86)
+use it with cmd dos prompt command run with administrative privilege :
+wkhtmltopdf.exe --enable-local-file-access input.html output.pdf
+
+C:\WINDOWS\system32>cd /
+
+C:\>cd "C:\Users\mic\Documents\GitHub\pdf-generator\Src\pdf-generator\pdf-generator\bin\Release\bin"
+
+C:\Users\mic\Documents\GitHub\pdf-generator\Src\pdf-generator\pdf-generator\bin\Release\bin>wkhtmltopdf.exe --enable-local-file-access "C:\Users\mic\Documents\GitHub\pdf-generator\Src\pdf-generator\pdf-generator\bin\Release\ui-library-test.html" "C:\Users\mic\Documents\GitHub\pdf-generator\Src\pdf-generator\pdf-generator\bin\Release\ui-library-test.pdf"
